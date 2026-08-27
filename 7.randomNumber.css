@@ -1,0 +1,14 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+#generateButton{
+    border-radius: 1em;
+    background-color: black;
+    color: white;
+    font-size: 2em;
+    padding: 10px 20px;
+}
+.label{
+    font-size: 2em;
+}

@@ -1,0 +1,11 @@
+ol{
+    border: 2px solid;
+    font-size: 2rem;
+    margin-right: 500px;
+}
+.box{
+    border: 2px solid;
+    height: 125px;
+    margin-right: 500px;
+    margin-bottom: 20px;
+}

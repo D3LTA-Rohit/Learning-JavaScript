@@ -1,0 +1,24 @@
+button{
+    height: 150px;
+    width: 150px;
+    margin-right: 40px;
+    margin-left: 50px;
+    margin-top: 250px;
+    border:none;
+    border-radius: 20px;
+}
+#redButton{
+    background-color:red;
+}
+#greenButton{
+    background-color:green;
+}
+#blueButton{
+    background-color:blue;
+}
+#orangeButton{
+    background-color:orange;
+}
+#pinkButton{
+    background-color:pink;
+}

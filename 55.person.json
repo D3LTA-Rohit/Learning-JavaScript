@@ -1,0 +1,10 @@
+{
+    "name": "Peter Parker",
+    "age": 24,
+    "powers": [
+        "Climbing Walls",
+        "Spider Sense",
+        "Enhanced Agility, Strength and Durability"
+    ],
+    "location": "New York"
+}

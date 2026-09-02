@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Tony Stark",
+        "powers": [
+            "Cursed with knowledge"
+        ],
+        "location": "New York"
+    },
+    {
+        "name": "Steve Rogers",
+        "powers": [
+            "Super Human Strength",
+            "Super Human Agility",
+            "Super Human Stamina"
+        ],
+        "location": "New York"
+    },
+    {
+        "name": "Thor Odinson",
+        "powers": [
+            "God of Thunder"
+        ],
+        "location": "Asgard"
+    }
+]
